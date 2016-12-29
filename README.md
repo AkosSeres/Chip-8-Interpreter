@@ -15,4 +15,4 @@ Then you can choose a rom from the list or pick a file from your computer to run
 
 Original Chip-8 comuters had a hex keyboard, we use this configuration in our program:
 
-![KEYBOARD](key.png)
+![KEYBOARD](https://github.com/AkosSeres/Chip-8-Interpreter/blob/master/key.jpg)
